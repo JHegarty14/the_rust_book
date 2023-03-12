@@ -1,0 +1,1 @@
+/Users/jack/the_rust_book/chapter7_2/target/debug/chapter7_2: /Users/jack/the_rust_book/chapter7_2/src/garden/vegetables.rs /Users/jack/the_rust_book/chapter7_2/src/garden.rs /Users/jack/the_rust_book/chapter7_2/src/main.rs

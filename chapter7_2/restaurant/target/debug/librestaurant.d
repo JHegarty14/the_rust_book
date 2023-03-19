@@ -1,0 +1,1 @@
+/Users/jack/the_rust_book/chapter7_2/restaurant/target/debug/librestaurant.rlib: /Users/jack/the_rust_book/chapter7_2/restaurant/src/front_of_house/hosting.rs /Users/jack/the_rust_book/chapter7_2/restaurant/src/front_of_house/serving.rs /Users/jack/the_rust_book/chapter7_2/restaurant/src/front_of_house.rs /Users/jack/the_rust_book/chapter7_2/restaurant/src/lib.rs
